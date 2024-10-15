@@ -4,4 +4,4 @@
 #### Die
 ##### Die
 ###### Die
-![TOR](imgs/TOR.png) ![Docker](imgs/Docker.png)
+![TOR](imgs/TOR.png)
